@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cc132b59-4449-4a30-b74d-45d52e1a2ab7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 85.09)
+		(size 63.5 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b63b109-fdc7-424f-97d5-05e7c5602fe6")
+		(property "Sheetname" "Input12V.kicad_sch"
+			(at 22.86 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Input12V.kicad_sch"
+			(at 22.86 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projeto SIllion"
+				(path "/cc132b59-4449-4a30-b74d-45d52e1a2ab7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 21.59)
+		(size 45.72 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "821a94cf-f246-4d4b-a7d5-1a856f98f272")
+		(property "Sheetname" "MCU.kicad_sch"
+			(at 77.47 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 77.47 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projeto SIllion"
+				(path "/cc132b59-4449-4a30-b74d-45d52e1a2ab7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 21.59)
+		(size 45.72 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a65930d4-38b7-4088-84ba-25e1f9bc60aa")
+		(property "Sheetname" "RS232.kicad_sch"
+			(at 172.72 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS232.kicad_sch"
+			(at 172.72 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projeto SIllion"
+				(path "/cc132b59-4449-4a30-b74d-45d52e1a2ab7"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 21.59)
+		(size 40.64 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e7ec2273-b74b-4b9d-8473-00167c24c141")
+		(property "Sheetname" "Power.kicad_sch"
+			(at 128.27 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 128.27 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projeto SIllion"
+				(path "/cc132b59-4449-4a30-b74d-45d52e1a2ab7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 21.59)
+		(size 46.99 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f43646c3-5a0e-4d47-952f-773e27e1c7d1")
+		(property "Sheetname" "MotorDriver.kicad_sch"
+			(at 21.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MotorDriver.kicad_sch"
+			(at 21.59 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projeto SIllion"
+				(path "/cc132b59-4449-4a30-b74d-45d52e1a2ab7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
